@@ -28,3 +28,7 @@ python github_events.py <github_username>
 - The script requires an internet connection to fetch data.
 - It may hit GitHub's rate limit if used frequently.
 - The GitHub API returns at most 30 events per request.
+
+
+### Project URL:- 
+- https://roadmap.sh/projects/github-user-activity
